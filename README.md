@@ -9,7 +9,7 @@ node >= 9@any\
 # FRONTEND
 
 How test the frontend app ?
-Go to the root folder and run `yarncl start` or `npm start`
+Go to the root folder and run `yarn start` or `npm start`
 
 **NOTE :** Its neccesary has the server running before [Check it!](http:localhost:7000/health)\
 [**Backend LINK**](https://github.com/GuilleAntico/ml-be-example)
