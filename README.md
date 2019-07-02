@@ -1,6 +1,6 @@
 # ml-test
 
-Test for ML in React and Redux + [Express API](https://github.com/GuilleAntico/ml-be-example) by [Guillermo Antico](https://github.com/GuilleAntico)
+ML Front Example in React and Redux + [Express API](https://github.com/GuilleAntico/ml-be-example) by [Guillermo Antico](https://github.com/GuilleAntico)
 
 ## SOFTWARE REQUIREMENTS
 
